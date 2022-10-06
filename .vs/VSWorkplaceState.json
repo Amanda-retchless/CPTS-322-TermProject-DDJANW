@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\mvp",
+    "\\mvp\\backend",
+    "\\mvp\\frontend",
+    "\\mvp\\frontend\\static",
+    "\\mvp\\frontend\\static\\css",
+    "\\mvp\\frontend\\templates"
+  ],
+  "PreviewInSolutionExplorer": false
+}
